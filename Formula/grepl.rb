@@ -3,8 +3,8 @@ class Grepl < Formula
 
   desc "Semantic code search CLI using ChromaDB + Ollama"
   homepage "https://github.com/miikeyanderson/grepl"
-  url "https://github.com/miikeyanderson/grepl/archive/refs/tags/v0.2.8.tar.gz"
-  sha256 "36ac150484f4d3142424b2488a5464dc8756045da23777cfb8fa4015e5f6c24f"
+  url "https://github.com/miikeyanderson/grepl/archive/refs/tags/v0.2.9.tar.gz"
+  sha256 "30472fb44700e0806e21e82fa7525ff723b5ee67958761e7bcbd792d4f8e6de4"
   license "MIT"
 
   depends_on "python@3.11"
