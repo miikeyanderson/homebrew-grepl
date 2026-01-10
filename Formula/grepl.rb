@@ -1,7 +1,7 @@
 class Grepl < Formula
   include Language::Python::Virtualenv
 
-  desc "Semantic code search CLI using ChromaDB + Ollama"
+  desc "Explainable code search for humans and AI"
   homepage "https://github.com/miikeyanderson/grepl"
   url "https://github.com/miikeyanderson/grepl/archive/refs/tags/v0.2.9.tar.gz"
   sha256 "30472fb44700e0806e21e82fa7525ff723b5ee67958761e7bcbd792d4f8e6de4"
