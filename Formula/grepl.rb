@@ -3,8 +3,8 @@ class Grepl < Formula
 
   desc "Explainable code search for humans and AI"
   homepage "https://github.com/miikeyanderson/grepl"
-  url "https://github.com/miikeyanderson/grepl/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "cef2aa7b96ccd3561446674ef9aae0f460d0fa0127006782bef549c610b8a9ab"
+  url "https://github.com/miikeyanderson/grepl/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "104b7783d3044a0f254a8ad3790d3b6bf489bd4d98f4d30dfc778fcc2eb84f8f"
   license "MIT"
 
   depends_on "python@3.11"
